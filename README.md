@@ -4,7 +4,7 @@ Take a look around at the files
 Enjoy :D 
 
 ## Live
-- [Figma MockUp](https://www.figma.com/proto/qy0UNWMkLP58N5H6o30qDI/MoneroSwiss?node-id=116-39&t=mx9qeDLy9N9lZgz8-1&scaling=scale-down-width&content-scaling=fixed)
+- [Figma MockUp](https://www.figma.com/proto/qy0UNWMkLP58N5H6o30qDI/MoneroSwiss?node-id=56-17&t=IPeRgEXNW273uJi7-1&scaling=scale-down-width&content-scaling=fixed)
 
 # 3d renders
 ![moneropedia](moneswiss_wekipedia.png)
